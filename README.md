@@ -179,7 +179,3 @@ This project is licensed under the MIT License.
 - Flutter team for the amazing framework
 - Provider package for state management
 - Material Design for UI guidelines
-
----
-
-**Enjoyed the game? Give it a ⭐ on GitHub!**
