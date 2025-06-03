@@ -1,9 +1,5 @@
 # Flutter Snake Game 🐍
 
-## 📱 Screenshots
-
-*Add your app screenshots here*
-
 ## ✨ Features
 
 - **Smooth Gameplay**: Responsive controls with customizable game speed
@@ -30,8 +26,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/flutter-snake-game.git
-   cd flutter-snake-game
+   git clone https://github.com/bektas-sari/snake_game.git
+   cd snake_game
    ```
 
 2. **Install dependencies**
